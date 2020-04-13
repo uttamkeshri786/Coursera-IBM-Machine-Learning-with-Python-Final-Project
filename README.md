@@ -1,7 +1,7 @@
 # Coursera-IBM-Machine-Learning-with-Python-Final-Project
 Coursera-IBM-Machine-Learning-with-Python-Final-Project : The Best Classifier , Instructor - Saeed Aghabozorgi : 
 
-# Project : build a classifier to predict whether a loan case will be paid off or not.
+# Project : Building a classifier to predict whether a loan case will be paid off or not.
 
 @ Task - loading a historical dataset from previous loan applications, cleaning the data, and applying different classification algorithm on the data.
 
