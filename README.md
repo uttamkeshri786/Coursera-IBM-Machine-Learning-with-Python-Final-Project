@@ -11,7 +11,7 @@ The results is reported as the accuracy of each classifier, using the following 
 
 ## Project details:
 
-Name - Building model using K-Nearest Neighbour (KNN)
+1.) Name - Building model using K-Nearest Neighbour (KNN)
 
 Description -
               Building model using KNN Classifier, to predict whether a loan case will be paid off or not.
@@ -19,7 +19,7 @@ Description -
               Jaccard index, F1-score, Log Loss.
 
 
-Name - Building model using Decision Tree
+2.) Name - Building model using Decision Tree
              
 Description -
               Building model using Decision Tree, to predict whether a loan case will be paid off or not.
@@ -27,7 +27,7 @@ Description -
               Jaccard index, F1-score, Log Loss.
 
 
-Name - Building model using Support Vector Machine (SVM)
+3.) Name - Building model using Support Vector Machine (SVM)
              
 Description -
               Building model using SVM, to predict whether a loan case will be paid off or not.
@@ -35,7 +35,7 @@ Description -
               Jaccard index, F1-score, Log Loss.
 
 
-Name - Building model using Logistic Regression
+4.) Name - Building model using Logistic Regression
              
 Description -
               Building model using Logistic Regression, to predict whether a loan case will be paid off or not.
