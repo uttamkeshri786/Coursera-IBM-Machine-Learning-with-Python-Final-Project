@@ -41,3 +41,8 @@ Description -
               Building model using Logistic Regression, to predict whether a loan case will be paid off or not.
               Finding the best 'k' and accuracy evaluation, using the following metrics when these are applicable:
               Jaccard index, F1-score, Log Loss.
+
+
+#### Final Report :-
+
+Final Project Notebook - The Best Classifier
